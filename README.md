@@ -1,5 +1,4 @@
-## Hi there, i'm Aicha👋
-
+## Hi there, I'm Aicha👋
 
 - 🔭 I’m currently a software engineer student.
 - 🌱 I’m currently working on enhancing my full-stack development skills, building projects in JavaScript, PHP, Python, and SQL.
@@ -7,8 +6,8 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aicha-el-horre-b802a4227/) or [Email](aichaelhorre43@gmail.com).
 - 😄 Pronouns: She/Her.
 
+<div align="left" style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/14939b75-48e7-44c8-9f8e-52fe245692c6" alt="Screenshot 2024-11-10 195356" width="200"/>
+</div>
 
 [![Aicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoringCookiie&theme=radical)]
-
-
