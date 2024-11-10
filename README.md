@@ -9,6 +9,6 @@
 - 😄 Pronouns: She/Her.
 
 
-[![Aicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=test&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Aicha's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoringCookiie&theme=radical)]
 
 
